@@ -1,0 +1,11 @@
+@startum1 foco
+classn Usuario 
+class Foco {
+-EstadoFoco estado 
++Encender()
++Apagar()
+}
+class EstadoFoco
+Usuario o-- foco
+Foco *-- EstadoFoco
+@endum1
