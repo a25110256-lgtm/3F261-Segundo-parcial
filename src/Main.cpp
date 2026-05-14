@@ -1,5 +1,5 @@
 #include <iostream>
-#include <SerieFocos.hpp>
+#include <Seriefocos.hpp>
 #include <Foco.hpp>
 
 int main (int argc, char cost *argv[])
@@ -8,7 +8,7 @@ int main (int argc, char cost *argv[])
     serie.EncenderFocos();
     serie.MostrarFocos();
     serie.ApagarFocos();
-    serie.MostrarFocos();\
+    serie.MostrarFocos();
 
     return 0;
 }
