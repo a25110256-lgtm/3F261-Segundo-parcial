@@ -1,3 +1,5 @@
+
+    return 0; 
 #include <iostream>
 using namespace std;
 
@@ -14,6 +16,6 @@ int main ()
     cout<<sizeof(double)<<endl;
     cout<<sizeof(short)<<endl;
     cout<<sizeof(long double)<<endl;
-
-    return 0; 
-}
+     return 0; 
+ }
+ 
